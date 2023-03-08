@@ -117,3 +117,11 @@ git push origin main
 ```
 
 Se tudo estiver correto, o repositório local deve ser enviado para o repositório remoto no GitHub.
+
+## Referências
+
+- [Como instalar o GIT no Windows](https://www.youtube.com/watch?v=gmyiJcn1WuQ&ab_channel=CamposDevelopers)
+
+- [Como instalar o Python no Windows](https://www.youtube.com/watch?v=25XAqA9LjP0&ab_channel=CamposDevelopers)
+
+- [Como instalar o Visual Studio Code no Windows](https://www.youtube.com/watch?v=E5Bl3pxJeuI&ab_channel=CamposDevelopers)
