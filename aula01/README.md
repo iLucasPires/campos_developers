@@ -48,8 +48,8 @@ E para instalar o Git no Windows, basta baixar o instalador no site oficial do G
 Para configurar o Git no Linux e no Windows, basta executar os comandos abaixo no terminal (Linux) ou no Git Bash (Windows):
 
 ```bash
-git config --global user.name "Seu Nome"
-git config --global user.email "seu@email.com"
+git config --global user.name "Seu Nome" # use o mesmo nome do GitHub
+git config --global user.email "seu@email.com" # use o mesmo e-mail do GitHub
 ```
 
 ## Visual Studio Code
@@ -92,7 +92,7 @@ Para criar um repositório no GitHub, basta acessar o site oficial do GitHub e c
 Para testar se tudo foi instalado corretamente, vamos criar nosso primeiro programa em Python. Para isso, crie um arquivo chamado `hello.py` com o seguinte conteúdo:
 
 ```python
-print("Hello World!")
+print("Hello World!") # imprime a mensagem "Hello World!" no terminal
 ```
 
 E execute o programa com o comando abaixo:
@@ -108,15 +108,15 @@ Se tudo estiver correto, parabéns! você acabou de executar seu primeiro "Hello
 Para usar o Git e o GitHub, vamos criar um repositório local e um repositório remoto no GitHub. Para isso, crie um diretório chamado `aula01` e execute os comandos abaixo:
 
 ```bash
-git init
-git remote add origin http://github.com/SEU_USUARIO/aula01.git
-git pull origin main # caso seu repositório remoto já tenha um conteúdo
-git add .
-git commit -m "Primeiro commit"
-git push origin main
+git init # cria um repositório local
+git remote add origin http://github.com/SEU_USUARIO/aula01.git # adiciona a referência do repositório remoto
+git pull origin main # sincroniza o repositório local com o repositório remoto
+git add . # adiciona todos os arquivos do diretório atual para o repositório local
+git commit -m "Primeiro commit" # cria um commit com a mensagem "Primeiro commit"
+git push origin main # envia o repositório local para o repositório remoto
 ```
 
-Se tudo estiver correto, o repositório local deve ser enviado para o repositório remoto no GitHub.
+Se tudo estiver correto, o repositório local deve ser enviado para o repositório remoto no GitHub. Para verificar, acesse o repositório remoto no GitHub e verifique se o arquivo `hello.py` foi enviado. Se sim, parabéns! você acabou de enviar seu primeiro programa para o GitHub.
 
 ## Referências
 
