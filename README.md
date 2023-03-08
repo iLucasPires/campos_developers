@@ -1,5 +1,7 @@
 # campos_developers
 
+**Note:** This repository contains the material for the Campos Developers mini-course on Web programming with Python, offered locally in the city. The content will be written in Portuguese to better serve the course participants.
+
 Campos Developers é um mini-curso de programação Web com python.
 
 ## Objetivo
