@@ -21,7 +21,7 @@ Para instalar o Python no Ubuntu, basta executar o comando abaixo:
 sudo apt install python3
 ```
 
-E para instalar o Python no Windows, basta baixar o instalador no
+Para instalar o Python no Windows, basta baixar o instalador no
 [site oficial do Python](https://www.python.org/downloads/windows/) e executá-lo (não se esqueça de marcar a opção "Add Python 3.x to PATH").
 
 caso você tenha dúvidas sobre como instalar o Python no Windows, veja o tutorial abaixo:
@@ -76,7 +76,7 @@ sudo snap install --classic code
 # ou baixe o instalador no site oficial do Visual Studio Code
 ```
 
-E para instalar o Visual Studio Code no Windows, basta baixar o instalador no
+Para instalar o Visual Studio Code no Windows, basta baixar o instalador no
 [site oficial do Visual Studio Code](https://code.visualstudio.com/) e executá-lo.
 
 caso você tenha dúvidas sobre como instalar o Visual Studio Code no Windows, veja o tutorial abaixo:
