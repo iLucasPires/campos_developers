@@ -1,4 +1,4 @@
-# campos_developers aula 01
+# Campos_developers aula 01
 
 Neste primeiro dia de curso, apredemos a instalar e usar as principais ferramentas que vamos usar durante o curso. São elas:
 
