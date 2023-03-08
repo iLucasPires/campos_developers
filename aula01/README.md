@@ -2,9 +2,9 @@
 
 Neste primeiro dia de curso, apredemos a instalar e usar as principais ferramentas que vamos usar durante o curso. São elas:
 
-- [Python](https://www.python.org/)
-- [Git](https://git-scm.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Liguagem Python](https://www.python.org/)
+- [Versionador de código Git](https://git-scm.com/)
+- [Editor de código Visual Studio Code](https://code.visualstudio.com/)
 
 Também aprendemos a usar o GitHub para hospedar nossos projetos e compartilhar nossos códigos com a comunidade.
 E aqui está um pequeno resumo e tutorial de como instalar e usar essas ferramentas.
