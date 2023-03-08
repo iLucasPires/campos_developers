@@ -68,22 +68,22 @@ Para configurar o Visual Studio Code no Linux e no Windows, basta instalar as ex
 
 ## GitHub
 
-GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. É uma subsidiária da Microsoft, que adquiriu o GitHub em 2018 por US$ 7,5 bilhões.
+GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. A plataforma permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
 
 ### Criação de conta
 
-Para criar uma conta no GitHub, basta acessar o site oficial do GitHub e clicar no botão "Sign up for GitHub".
+Para criar uma conta no GitHub, basta acessar o site oficial do GitHub e clicar no botão "Sign up for GitHub". Você pode criar uma conta com seu e-mail ou com sua conta do Google.
 
 ### Criação de repositório
 
-Para criar um repositório no GitHub, basta acessar o site oficial do GitHub e clicar no botão "New".
+Para criar um repositório no GitHub, basta acessar o site oficial do GitHub e clicar no botão "New" no canto superior direito da tela. Em seguida, preencha os campos abaixo:
 
 - Nome do repositório: `hello`
-- Descrição: `Hello World!`
-- Público: `Public`
+- Descrição: opcional
+- Público ou privado: `Público`
 - Inicializar o repositório com um README: `Sim`
 - gitignore: template `Python`
-- Licença: `não selecionar`
+- Licença: `nenhuma ou a que você preferir` (recomendo a estudar sobre licenças de software e escolher uma que se adeque ao seu projeto)
 
 ## Mão na massa
 
@@ -98,18 +98,18 @@ print("Hello World!")
 E execute o programa com o comando abaixo:
 
 ```bash
-python hello.py
+python hello.py # ou python3 hello.py
 ```
 
-Se tudo estiver correto, o programa deve imprimir a mensagem "Hello World!" no terminal.
+Se tudo estiver correto, parabéns! você acabou de executar seu primeiro "Hello World!" em Python.
 
 ### Usando Git e GitHub
 
-Para usar o Git e o GitHub, vamos criar um repositório local e um repositório remoto no GitHub. Para isso, crie um diretório chamado `hello` e execute os comandos abaixo:
+Para usar o Git e o GitHub, vamos criar um repositório local e um repositório remoto no GitHub. Para isso, crie um diretório chamado `aula01` e execute os comandos abaixo:
 
 ```bash
 git init
-git remote add origin http://github.com/SEU_USUARIO/hello.git
+git remote add origin http://github.com/SEU_USUARIO/aula01.git
 git pull origin main # caso seu repositório remoto já tenha um conteúdo
 git add .
 git commit -m "Primeiro commit"
