@@ -12,6 +12,4 @@ O objetivo do curso é ensinar os conceitos básicos de programação usando a l
 - Conceitos básicos de programação Web
 - Introdução ao Python
 - Introdução ao Git
-- Introdução ao Linux
-- Introdução ao Django
-- Introdução ao HTML e CSS
+- Introdução aos comandos básicos do Linux
