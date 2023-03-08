@@ -1,6 +1,6 @@
 # campos_developers
 
-Campos Developers é um mini-curso de programação Web com python e Django.
+Campos Developers é um mini-curso de programação Web com python.
 
 ## Objetivo
 
