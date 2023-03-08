@@ -4,7 +4,7 @@ Campos Developers é um mini-curso de programação Web com python e Django.
 
 ## Objetivo
 
-O objetivo do curso é ensinar os conceitos básicos de programação usando a linguagem Python e programação Web usando o framework Django.
+O objetivo do curso é ensinar os conceitos básicos de programação usando a linguagem Python e programação Web.
 
 ## Conteúdo
 
