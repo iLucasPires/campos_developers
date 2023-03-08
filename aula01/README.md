@@ -6,6 +6,9 @@ Neste primeiro dia de curso, apredemos a instalar e usar as principais ferrament
 - [Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
+Também aprendemos a usar o GitHub para hospedar nossos projetos e compartilhar nossos códigos com a comunidade.
+E aqui está um pequeno resumo e tutorial de como instalar e usar essas ferramentas.
+
 ## Python
 
 O Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
@@ -20,6 +23,10 @@ sudo apt install python3
 
 E para instalar o Python no Windows, basta baixar o instalador no
 [site oficial do Python](https://www.python.org/downloads/windows/) e executá-lo (não se esqueça de marcar a opção "Add Python 3.x to PATH").
+
+caso você tenha dúvidas sobre como instalar o Python no Windows, veja o tutorial abaixo:
+
+- [Como instalar o Python no Windows](https://www.youtube.com/watch?v=QX4d2FkLs8M&ab_channel=CamposDevelopers)
 
 ### Execução
 
@@ -41,7 +48,11 @@ Para instalar o Git no Linux, basta executar o comando abaixo:
 sudo apt install git
 ```
 
-E para instalar o Git no Windows, basta baixar o instalador no site oficial do Git e executá-lo.
+E para instalar o Git no Windows, basta baixar o instalador no [site oficial do Git](https://git-scm.com/downloads) e executá-lo.
+
+caso você tenha dúvidas sobre como instalar o Git no Windows, veja o tutorial abaixo:
+
+- [Como instalar o GIT no Windows](https://www.youtube.com/watch?v=gmyiJcn1WuQ&ab_channel=CamposDevelopers)
 
 ### Configuração
 
@@ -58,7 +69,19 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 ### Instalação
 
-Para instalar o Visual Studio Code no Linux ou no Windows, basta baixar o instalador no site oficial do Visual Studio Code e executá-lo.
+Para instalar o Visual Studio Code no Linux, basta executar o comando abaixo:
+
+```bash
+sudo snap install --classic code
+# ou baixe o instalador no site oficial do Visual Studio Code
+```
+
+E para instalar o Visual Studio Code no Windows, basta baixar o instalador no
+[site oficial do Visual Studio Code](https://code.visualstudio.com/) e executá-lo.
+
+caso você tenha dúvidas sobre como instalar o Visual Studio Code no Windows, veja o tutorial abaixo:
+
+- [Como instalar o Visual Studio Code no Windows](https://www.youtube.com/watch?v=E5Bl3pxJeuI&ab_channel=CamposDevelopers)
 
 ### Configuração
 
@@ -117,11 +140,3 @@ git push origin main # envia o repositório local para o repositório remoto
 ```
 
 Se tudo estiver correto, o repositório local deve ser enviado para o repositório remoto no GitHub. Para verificar, acesse o repositório remoto no GitHub e verifique se o arquivo `hello.py` foi enviado. Se sim, parabéns! você acabou de enviar seu primeiro programa para o GitHub.
-
-## Referências
-
-- [Como instalar o GIT no Windows](https://www.youtube.com/watch?v=gmyiJcn1WuQ&ab_channel=CamposDevelopers)
-
-- [Como instalar o Python no Windows](https://www.youtube.com/watch?v=25XAqA9LjP0&ab_channel=CamposDevelopers)
-
-- [Como instalar o Visual Studio Code no Windows](https://www.youtube.com/watch?v=E5Bl3pxJeuI&ab_channel=CamposDevelopers)
