@@ -48,7 +48,7 @@ Para instalar o Git no Linux, basta executar o comando abaixo:
 sudo apt install git
 ```
 
-E para instalar o Git no Windows, basta baixar o instalador no [site oficial do Git](https://git-scm.com/downloads) e executá-lo.
+Para instalar o Git no Windows, basta baixar o instalador no [site oficial do Git](https://git-scm.com/downloads) e executá-lo.
 
 caso você tenha dúvidas sobre como instalar o Git no Windows, veja o tutorial abaixo:
 
