@@ -21,7 +21,7 @@ relembrando o que aprendemos na aula anterior:
   - `git pull`: pega as alterações do repositório remoto
   - `git clone`: clona um repositório remoto
 
-agora com esses comandos em mente, podemos aprender alguns novos comandos e alguns novos conceitos.
+agora com esses comandos em mente, podemos aprender alguns novos comandos e conceitos.
 
 ## Branches
 
