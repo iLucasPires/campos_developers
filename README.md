@@ -1,4 +1,6 @@
-# campos_developers Curso de programação Web com Python
+# Campos_developers curso de programação Web com Python
+
+![campos](https://media.licdn.com/dms/image/C4E1BAQH2ZjURXZpR3A/company-background_10000/0/1603560662203?e=1679032800&v=beta&t=5iAcucOKrur78zNd8eyGwD8YeQXHiv25Su10c57uuOU)
 
 **Note:** This repository contains the material for the Campos Developers mini-course on Web programming with Python, offered locally in the city. The content will be written in Portuguese to better serve the course participants.
 
