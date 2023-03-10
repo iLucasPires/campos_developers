@@ -6,12 +6,11 @@ Campos Developers é um mini-curso de programação Web com python.
 
 ## Objetivo
 
-O objetivo do curso é ensinar os conceitos básicos de programação usando a linguagem Python e programação Web.
+O objetivo desse repositório é servir como minhas anotações e como material de apoio para o curso de programação Web com Python.
 
 ## Conteúdo
 
-- Conceitos básicos de programação
-- Conceitos básicos de programação Web
-- Introdução ao Python
-- Introdução ao Git
-- Introdução aos comandos básicos do Linux
+| Aulas    |     Conteúdo                       |
+|----------|:----------------------------------:|
+| Aula 01  | [Introdução](aula01/README.md)     |
+| Aula 02  | [Git e Branches](aula02/README.md) |
