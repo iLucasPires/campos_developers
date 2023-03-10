@@ -28,15 +28,19 @@ Git é um sistema de controle de versão distribuído, usado principalmente no d
 
 Para instalar o Git no Windows, basta baixar o instalador no [site oficial do Git](https://git-scm.com/downloads) e executá-lo.
 
-caso você tenha dúvidas sobre como instalar o Git no Windows, veja o tutorial abaixo:
-
-- [Como instalar o GIT no Windows](https://www.youtube.com/watch?v=gmyiJcn1WuQ&ab_channel=CamposDevelopers)
-
-E para instalar o Git no Linux, basta executar o comando abaixo: (lembre-se de executar o comando no terminal)
+E no Linux, basta executar o comando abaixo: (lembre-se de executar o comando no terminal)
 
 ```bash
-sudo apt install git # ou no lugar de apt, use o gerenciador de pacotes que você usa
+sudo apt update # ou no lugar de apt, use o gerenciador de pacotes que você usa
+sudo apt install git # ou no lugar de apt, use o gerenciador de pacotes que você us
+
+# geralmente o git já vem instalado no Linux, mas se não vier, instale usando o comando acima
 ```
+
+caso você tenha dúvidas sobre como instalar o Git no Windows ou no Linux, veja os tutoriais abaixo:
+
+- [Como instalar o GIT no Windows](https://www.youtube.com/watch?v=gmyiJcn1WuQ&ab_channel=CamposDevelopers)
+- No linux é só executar o comando acima no terminal, mas caso não esteja conseguindo, me mande uma mensagem no discord que eu te ajudo. (link do discord esta no meu README)
 
 **Obs:** Para executar os comandos via linha de comando no Windows, usaremos o git bash que vem junto com o Git ou podemos usar o PowerShell, já no caso do Linux, usaremos o terminal padrão do sistema.
 
@@ -70,22 +74,27 @@ O Python é uma linguagem de programação de alto nível, interpretada, de scri
 Para instalar o Python no Windows, basta baixar o instalador no
 [site oficial do Python](https://www.python.org/downloads/windows/) e executá-lo (não se esqueça de marcar a opção "Add Python 3.x to PATH").
 
-caso você tenha dúvidas sobre como instalar o Python no Windows, veja o tutorial abaixo:
-
-- [Como instalar o Python no Windows](https://www.youtube.com/watch?v=QX4d2FkLs8M&ab_channel=CamposDevelopers)
+Ou se preferir, o python está disponível no [Microsoft Store](https://www.microsoft.com/pt-br/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab).
 
 Para instalar o Python no Ubuntu, basta executar o comando abaixo:
 
 ```bash
 sudo apt install python3 # ou no lugar de apt, use o gerenciador de pacotes que você usa
+
+# geralmente o python já vem instalado no Linux, mas se não vier, instale usando o comando acima
 ```
+
+caso você tenha dúvidas sobre como instalar o Python no Windows, veja o tutorial abaixo:
+
+- [Como instalar o Python no Windows](https://www.youtube.com/watch?v=QX4d2FkLs8M&ab_channel=CamposDevelopers)
+- No linux é só executar o comando acima no terminal, mas caso não esteja conseguindo, me mande uma mensagem no discord que eu te ajudo. (link do discord esta no meu README)
 
 ### Execução do Python
 
 Para executar o Python no Linux e no Windows, basta executar o comando abaixo:
 
 ```bash
-python --version # ou python3 --version
+python # ou python3
 ```
 
 **Obs:** No linux o comando é `python3`, pois antigamente muitas distribuições usavam o python 2 e o python 3, então para evitar conflitos, o comando `python` sempre apontava para o python 2, mas agora o python 2 não é mais suportado, mas ainda assim o padrão é usar o `python3` e possivelmente você vai precisar usar o `python3` em vez do `python` em alguns casos, mas não se preocupe, eu vou avisar quando isso acontecer.
@@ -100,12 +109,10 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 ### Instalação do Visual Studio Code
 
-Para instalar o Visual Studio Code no Linux, basta executar o comando abaixo:
-
 Para instalar o Visual Studio Code no Windows ou no Linux, basta baixar o instalador no
 [site oficial do Visual Studio Code](https://code.visualstudio.com/) e executá-lo.
 
-caso você tenha dúvidas sobre como instalar o Visual Studio Code:
+Ou se preferir, no Windows o Visual Studio Code está disponível no [Microsoft Store](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q?hl=pt-br&gl=br&activetab=pivot%3Aoverviewtab), e no Linux, o Visual Studio Code está disponível no [Snap Store](https://snapcraft.io/code).
 
 - [Como instalar o Visual Studio Code no Windows](https://www.youtube.com/watch?v=E5Bl3pxJeuI&ab_channel=CamposDevelopers)
 - [Como instalar o Visual Studio Code no Linux](https://www.youtube.com/watch?v=Dun7Vkpet6k&ab_channel=rorampy)
