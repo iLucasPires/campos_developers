@@ -4,7 +4,7 @@ Neste segundo dia de curso, aprendemos novos comandos Git e o conceito de Branch
 
 ## Resumo do dia anterior
 
-relembrando o que apre ndemos nodia anterior:
+relembrando o que aprendemos na aula anterior:
 
 - aprendemos a instalar e usar as principais ferramentas que vamos usar durante o curso. São elas:
   - [Liguagem Python](https://www.python.org/)
@@ -21,7 +21,7 @@ relembrando o que apre ndemos nodia anterior:
   - `git pull`: pega as alterações do repositório remoto
   - `git clone`: clona um repositório remoto
 
-agora com esses comandos, vamos aprender mais alguns comandos e o conceito de Branches.
+agora com esses comandos em mente, podemos aprender alguns novos comandos e alguns novos conceitos.
 
 ## Branches
 
