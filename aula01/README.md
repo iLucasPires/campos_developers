@@ -76,7 +76,7 @@ Para instalar o Python no Windows, basta baixar o instalador no
 
 Ou se preferir, o python está disponível no [Microsoft Store](https://www.microsoft.com/pt-br/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab).
 
-Para instalar o Python no Ubuntu, basta executar o comando abaixo:
+Para instalar o Python no Linux, basta executar o comando abaixo:
 
 ```bash
 sudo apt install python3 # ou no lugar de apt, use o gerenciador de pacotes que você usa
