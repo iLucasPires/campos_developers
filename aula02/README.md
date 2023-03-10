@@ -27,6 +27,10 @@ agora com esses comandos em mente, podemos aprender alguns novos comandos e conc
 
 Branches são linhas de desenvolvimento paralelas. Elas permitem que você desenvolva funcionalidades isoladas umas das outras. As branches são criadas a partir da branch `main`.
 
+![branches](https://res.cloudinary.com/practicaldev/image/fetch/s--4td_bdCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ph91rcm4nkmna10eqmb.jpg)
+
+imagina as branches como uma árvore, onde a branch `main` é a raiz da árvore e as outras branches são galhos da árvore.
+
 ## Alguns novos comandos Git
 
 ### Criando uma nova branch
