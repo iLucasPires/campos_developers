@@ -4,15 +4,15 @@ Neste segundo dia de curso, aprendemos novos comandos Git e o conceito de Branch
 
 ## Resumo do dia anterior
 
-relembrando o que aprendemos na aula anterior:
+Relembrando o que aprendemos na aula anterior:
 
-- aprendemos a instalar e usar as principais ferramentas que vamos usar durante o curso. São elas:
+- Aprendemos a instalar e usar as principais ferramentas que vamos usar durante o curso. São elas:
   - [Liguagem Python](https://www.python.org/)
   - [Versionador de código Git](https://git-scm.com/)
   - [Editor de código Visual Studio Code](https://code.visualstudio.com/)
 - Também aprendemos a usar o GitHub para hospedar nossos projetos e compartilhar nossos códigos com a comunidade.
 
-- e o mais importante, aprendemos alguns comando git que vai ser importante para hoje. São eles:
+- E o mais importante, aprendemos alguns comando git que vai ser importante para hoje. São eles:
   - `git init`: inicia um repositório git
   - `git add`: adiciona arquivos para serem versionados
   - `git commit`: salva as alterações no repositório
@@ -21,7 +21,7 @@ relembrando o que aprendemos na aula anterior:
   - `git pull`: pega as alterações do repositório remoto
   - `git clone`: clona um repositório remoto
 
-agora com esses comandos em mente, podemos aprender alguns novos comandos e conceitos.
+Agora com esses comandos em mente, podemos aprender alguns novos comandos e conceitos.
 
 ## Branches
 
@@ -29,9 +29,12 @@ Branches são linhas de desenvolvimento paralelas. Elas permitem que você desen
 
 ![branches](https://res.cloudinary.com/practicaldev/image/fetch/s--4td_bdCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ph91rcm4nkmna10eqmb.jpg)
 
-imagina as branches como uma árvore, onde a branch `main` é a raiz da árvore e as outras branches são galhos da árvore.
+Imagina as branches como uma árvore, onde a branch `main` é a raiz da árvore e as outras branches são galhos da árvore.
+Cada branch é um ponto de partida para o desenvolvimento de uma nova funcionalidade. Quando a funcionalidade é finalizada, a branch é unida com a branch `main`.
 
-## Alguns novos comandos Git
+Com esse conceito em mente, vamos aprender alguns novos comandos Git.
+
+## Comandos Git
 
 ### Criando uma nova branch
 
@@ -160,4 +163,4 @@ Agora novamente você precisa fazer o merge da branch `feature` com a branch `de
   git push origin develop # enviando as alterações para o repositório remoto
 ```
 
-e assim por diante...
+E assim por diante...
