@@ -26,3 +26,5 @@ ou se preferir, abra uma issue com sua sugestão, dúvida ou crítica, também �
 
 - [ ] Adicionar mais conteúdo
 - [ ] utilizar minhas próprias imagens
+- [ ] Corrigir erros de português
+- [ ] Corrigir erros de digitação
