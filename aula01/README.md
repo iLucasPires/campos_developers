@@ -9,7 +9,7 @@ Neste primeiro dia de curso, apredemos a instalar as principais ferramentas que 
 Também aprendemos a usar o GitHub para hospedar nossos projetos e compartilhar nossos códigos com a comunidade.
 E aqui está um pequeno resumo e tutorial de como instalar e usar essas ferramentas.
 
-nesse resumo, vamos aprender:
+Nesse resumo, vamos aprender:
 
 - [Instalação do Git](#instalação-do-git)
 - [Execução do Git](#execução-do-git)
@@ -37,7 +37,7 @@ sudo apt install git # ou no lugar de apt, use o gerenciador de pacotes que voc�
 # geralmente o git já vem instalado no Linux, mas se não vier, instale usando o comando acima
 ```
 
-caso você tenha dúvidas sobre como instalar o Git no Windows ou no Linux, veja os tutoriais abaixo:
+Caso você tenha dúvidas sobre como instalar o Git no Windows ou no Linux, veja os tutoriais abaixo:
 
 - [Como instalar o GIT no Windows](https://www.youtube.com/watch?v=gmyiJcn1WuQ&ab_channel=CamposDevelopers)
 - No linux é só executar o comando acima no terminal, mas caso não esteja conseguindo, me mande uma mensagem no discord que eu te ajudo. (link do discord esta no meu README)
@@ -54,7 +54,7 @@ git --version
 
 ![git](https://linuxhint.com/wp-content/uploads/2022/09/image7.png)
 
-ele deve retornar a versão do git que você instalou, se não retornar, provavelmente você não instalou o git corretamente.
+Ele deve retornar a versão do git que você instalou, se não retornar, provavelmente você não instalou o git corretamente.
 
 ### Configuração do Git
 
@@ -84,7 +84,7 @@ sudo apt install python3 # ou no lugar de apt, use o gerenciador de pacotes que 
 # geralmente o python já vem instalado no Linux, mas se não vier, instale usando o comando acima
 ```
 
-caso você tenha dúvidas sobre como instalar o Python no Windows, veja o tutorial abaixo:
+Caso você tenha dúvidas sobre como instalar o Python no Windows, veja o tutorial abaixo:
 
 - [Como instalar o Python no Windows](https://www.youtube.com/watch?v=QX4d2FkLs8M&ab_channel=CamposDevelopers)
 - No linux é só executar o comando acima no terminal, mas caso não esteja conseguindo, me mande uma mensagem no discord que eu te ajudo. (link do discord esta no meu README)
@@ -125,9 +125,9 @@ Para executar o Visual Studio Code no Linux e no Windows, basta executar o coman
 code
 ```
 
-ou clique no ícone do Visual Studio Code no menu iniciar do Windows ou no menu de aplicativos do Linux.
+Ou clique no ícone do Visual Studio Code no menu iniciar do Windows ou no menu de aplicativos do Linux.
 
-devemos ter uma tela parecida com essa:
+Devemos ter uma tela parecida com essa:
 
 ![vscode](https://user-images.githubusercontent.com/35271042/49915383-3250ef00-fe4a-11e8-9092-02270e104616.png)
 
@@ -160,7 +160,7 @@ Para criar um repositório no GitHub, basta acessar o site oficial do GitHub e c
 - gitignore: template `Python`
 - Licença: `nenhuma ou a que você preferir` (recomendo a estudar sobre licenças de software e escolher uma que se adeque ao seu projeto)
 
-caso você tenha duvida como criar uma conta no GitHub e como criar um repositório, veja os tutoriais abaixo:
+Caso você tenha duvida como criar uma conta no GitHub e como criar um repositório, veja os tutoriais abaixo:
 
 - [Como criar uma conta no GitHub](https://docs.github.com/pt/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 - [Como criar um repositório no GitHub](https://docs.github.com/pt/get-started/quickstart/create-a-repohttps://docs.github.com/pt/get-started/quickstart/create-a-repo)
