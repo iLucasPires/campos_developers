@@ -12,10 +12,13 @@ O objetivo desse repositório é servir como minhas anotações e como material 
 
 ## Conteúdo
 
-| Aulas    |     Conteúdo                       |
-|----------|:----------------------------------:|
-| Aula 01  | [Introdução](aula01/README.md)     |
-| Aula 02  | [Git e Branches](aula02/README.md) |
+| Aulas    |     Conteúdo                                                         |
+|----------|:--------------------------------------------------------------------:|
+| Aula 01  | [Introdução](aula01/README.md)                                       |
+| Aula 02  | [Git e Branches](aula02/README.md)                                   |
+| Aula 03  | [Python Tipos de dados, jupeiter notebook e venvs](aula03/README.md) |
+| Aula 04  | [Git Flow e alternativas](aula04/README.md)                          |
+| Aula 05  | [black, flake8 e pre-commit](aula05/README.md)                       |
 
 ## Como contribuir
 

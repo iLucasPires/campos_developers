@@ -104,3 +104,9 @@ O pre-commit é uma ferramenta que executa comandos antes de cada commit, ele é
     ```bash
     pre-commit uninstall
     ```
+
+    Após executar o comando, o pre-commit vai remover o arquivo `.pre-commit-config.yaml` da raiz do seu projeto.
+
+## Resumo da aula
+
+Nesta aula, aprendemos um pouco sobre pre-commit, aonde podemos usar a ferramenta, para resolver problemas de qualidade de código, e como configurar o pre-commit.

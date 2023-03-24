@@ -197,3 +197,8 @@ git push origin main # envia o repositório local para o repositório remoto
 ```
 
 Se tudo estiver correto, o repositório local deve ser enviado para o repositório remoto no GitHub. Para verificar, acesse o repositório remoto no GitHub e verifique se o arquivo `hello.py` foi enviado. Se sim, parabéns! você acabou de enviar seu primeiro programa para o GitHub.
+
+
+## Resumo da aula
+
+Nessa aula, aprendemos como instalar o Python, o Visual Studio Code e o GitHub. Também aprendemos como criar nosso primeiro programa em Python e como enviar o programa para o GitHub.

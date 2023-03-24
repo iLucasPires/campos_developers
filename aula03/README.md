@@ -166,3 +166,8 @@ agora podemos criar um novo notebook Jupyter, clicando no botão `+ Code` no can
 e podemos escrever código Python no notebook Jupyter, como se estivéssemos usando o modo interativo do Python, depois de escrever o código, podemos executar o código clicando no botão `Run` no canto superior esquerdo da tela.
 
 **OBS:** provalmente ele vai pedir para selecionar o virtualenv que você quer usar, selecione o virtualenv que você criou, e depois vai pedir para instalar as dependências do notebook Jupyter, clique em `Install`.
+
+
+## Resumo da aula
+
+Nesta aula, nós aprendemos um pouco sobre o Python, sobre o modo interativo do Python, sobre os tipos de dados, sobre o ambiente virtual e sobre o notebook Jupyter.

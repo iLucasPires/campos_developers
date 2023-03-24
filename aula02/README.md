@@ -178,3 +178,7 @@ Agora novamente você precisa fazer o merge da branch `feature` com a branch `de
 ```
 
 E assim por diante...
+
+## Resumo da aula
+
+Nessa aula, aprendemos sobre branches e como elas funcionam. Também aprendemos sobre o Git Flow e como ele pode ser usado para facilitar o desenvolvimento de projetos.
