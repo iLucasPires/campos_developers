@@ -23,6 +23,20 @@ Relembrando o que aprendemos na aula anterior:
 
 Agora com esses comandos em mente, podemos aprender alguns novos comandos e conceitos.
 
+## O que vamos aprender hoje
+
+- [Branches](#branches)
+- [Comandos Git](#comandos-git)
+  - [Criando uma nova branch](#criando-uma-nova-branch)
+  - [Listando as branches](#listando-as-branches)
+  - [Mudando de branch](#mudando-de-branch)
+  - [Deletando uma branch](#deletando-uma-branch)
+  - [Git Merge](#git-merge)
+    - [Unindo duas branches](#unindo-duas-branches)
+- [GIT Flow](#git-flow)
+- [Mão na massa](#mão-na-massa)
+
+
 ## Branches
 
 Branches são linhas de desenvolvimento paralelas. Elas permitem que você desenvolva funcionalidades isoladas umas das outras. As branches são criadas a partir da branch `main`.

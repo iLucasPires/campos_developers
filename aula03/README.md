@@ -11,6 +11,17 @@ Relembrando o que aprendemos na aula anterior:
 
 Agora com esses conceitos em mente, vamos aprender um pouco sobre Python.
 
+## Oque vamos aprender hoje?
+
+- [Tipos de dados](#tipos-de-dados)
+  - [Exemplos](#exemplos)
+    - [Inteiros](#inteiros)
+    - [Ponto flutuante](#ponto-flutuante)
+    - [Strings](#strings)
+    - [Booleanos](#booleanos)
+- [Ambiente virtual](#ambiente-virtual)
+- [Notebooks Jupyter](#notebook-jupyter)
+
 ## Python
 
 Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte, que suporta múltiplos paradigmas de programação, incluindo programação orientada a objetos, programação imperativa e, em menor grau, programação funcional.
@@ -110,6 +121,9 @@ Para criar um ambiente virtual, basta usar o comando `python -m venv <nome_do_am
 
 ```bash
 python -m venv venv # cria um ambiente virtual chamado venv
+# ou
+virtualenv venv # cria um ambiente virtual chamado venv
+# neste caso, você precisa ter o pacote virtualenv instalado, caso não tenha, use o comando pip install virtualenv
 ```
 
 Para ativar o ambiente virtual, basta usar o comando `source <nome_do_ambiente>/bin/activate`, no caso do Linux e MacOS, ou `source <nome_do_ambiente>/Scripts/activate`, no caso do Windows, caso você esteja usando o PowerShell, use `.\venv\Scripts\Activate`.
@@ -134,9 +148,9 @@ virtualenv venv # cria um ambiente virtual chamado venv
 
 **OBS:** Caso ainda esteja tendo problemas entre em contato comigo, posso tentar ajudar, tem o meu discord no readme do meu perfil.
 
-## Jupyter Notebooks
+## Notebook Jupyter
 
-Jupyter Notebooks é uma aplicação web que permite criar e compartilhar documentos que contém código, equações, visualizações e texto explicativo.
+Notebooks Jupyter é uma aplicação web que permite criar e compartilhar documentos que contém código, equações, visualizações e texto explicativo.
 
 Podemos usar o Google Colab para criar notebooks Jupyter, para isso, basta acessar o link
 [https://colab.research.google.com/](https://colab.research.google.com/) e criar um novo notebook.
